@@ -1,0 +1,9 @@
+.tables-container--slider {
+  overflow-x: hidden;
+}
+
+
+.planes-container--slider{
+    overflow-x: hidden;
+    height: 330px;
+}
