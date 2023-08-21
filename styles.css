@@ -613,7 +613,6 @@ footer .left ul{
 
 @media screen and (min-width: 500px) {
   .tables-container--slider {
-    outline: 1px red solid;
     height: auto;
     gap: 15px;
     max-width: 800px;
